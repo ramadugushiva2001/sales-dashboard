@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sales-dashboard/static/css/main.b8e29fba.css",
+    "main.js": "/sales-dashboard/static/js/main.8fea05ea.js",
+    "static/js/453.69f3745b.chunk.js": "/sales-dashboard/static/js/453.69f3745b.chunk.js",
+    "index.html": "/sales-dashboard/index.html",
+    "main.b8e29fba.css.map": "/sales-dashboard/static/css/main.b8e29fba.css.map",
+    "main.8fea05ea.js.map": "/sales-dashboard/static/js/main.8fea05ea.js.map",
+    "453.69f3745b.chunk.js.map": "/sales-dashboard/static/js/453.69f3745b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8e29fba.css",
+    "static/js/main.8fea05ea.js"
+  ]
+}
